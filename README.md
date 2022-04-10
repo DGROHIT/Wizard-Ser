@@ -26,7 +26,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtu.be/5shzvYdTasw"><img src="https://i.imgur.com/XkDscpl.jpeg" />
+  <a href="https://youtube.com/channel/UCmI5wn_THTntx58EookLwUw"><img src="https://i.ytimg.com/vi/1XTkds78fOw/maxresdefault.jpg" />
 </p>
 
 -------
@@ -76,27 +76,27 @@ Click WA logo to Join Support Group 👇
 ## Developers
   <div align="center">
   
-  [![SudoAnirudh](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/SudoAnirudh)[`SudoAnirudh`](https://github.com/SudoAnirudh)
+  [![Deepak](https://telegra.ph/file/b75e00136978ddd1aa558.jpg)](https://github.com/Deepak)[`Deepak`](https://github.com/DGDEEPAK)
 ----|
    `Base, Bug Fixes, Modules`
 
-  [![Ajmal](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/Ajmal-Achu)[`Ajmal`](https://github.com/Ajmal-Achu)
+  [![Deepak](https://i.imgur.com/0eDfjxn.jpeg)](https://github.com/DGDEEPAK)[`Deepak`](https://github.com/DGDEEPAK)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
-   [![Achu](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/Ajmal-Achu)[`Achu`](https://github.com/Ajmal-Achu)
+   [![Deepak](https://i.imgur.com/sKzm7EK.jpeg)](https://github.com/DGDEEPAK)[`Deepak`](https://github.com/DGDEEPAK)
 ----|
    `Re-Developer, Bug Fixes, Modules, Commits`
 
-   [![DEVILSER](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/DEVILSER)[`DEVILSER`](https://github.com/DEVILSER)
+   [![Deepak](https://i.imgur.com/CqEfYef.jpeg)](https://github.com/DGDEEPAK)[`Deepak`](https://github.com/DGDEEPAK)
 ----|
    `Bug Fixes, Modules, Commits`
 
-[![JOKER_SER](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/JOKER_SER)[`JOKER_SER`](https://github.com/JOKER_SER)
+[![Deepak](https://telegra.ph/file/360ff7e7ca78006e5f8ad.jpg)](https://github.com/DGDEEPAK)[`Deepak`](https://github.com/DGDEEPAK)
 ----|
    `Bug Fixes, Modules, Commits`
 
-[![SafwanGanz](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/SafwanGanz)[`SafwanGanz`](https://github.com/SafwanGanz)
+[![Deepak](https://telegra.ph/file/600e12ac7fbd5e766716c.jpg)](https://github.com/DGDEEPAK)[`Deepak`](https://github.com/DGDEEPAK)
 ----|
    `Bug Fixes, Modules`
 
