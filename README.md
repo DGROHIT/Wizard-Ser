@@ -1,7 +1,7 @@
-# Yotsuba
+# Wizard-Ser
 
 <div align="center">
-  <img border-radius: 15px src="https://i.ytimg.com/vi/1XTkds78fOw/maxresdefault.jpg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/1PWx69w.jpeg" width="200" height="200"/>
 
 <p align="center">
   <a href="https://instagram.com/deepak_gupta_2006"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
@@ -26,7 +26,7 @@
 ----------
 
 <p align="center">
-  <a href="https://youtube.com/channel/UCmI5wn_THTntx58EookLwUw"><img src="https://i.ytimg.com/vi/1XTkds78fOw/maxresdefault.jpg" />
+  <a href="https://youtube.com/channel/UCmI5wn_THTntx58EookLwUw"><img src="https://i.imgur.com/1PWx69w.jpeg" />
 </p>
 
 -------
