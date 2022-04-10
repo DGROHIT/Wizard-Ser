@@ -1,4 +1,4 @@
-# Wizard-Ser
+# Yotsuba
 
 <div align="center">
   <img border-radius: 15px src="https://i.ytimg.com/vi/1XTkds78fOw/maxresdefault.jpg" width="200" height="200"/>
